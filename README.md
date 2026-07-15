@@ -1,5 +1,5 @@
 # Fallen Angels
-
+![Fallen Angels](fall.png)
 Fallen Angels is an AI safety research project exploring why language models sometimes comply with jailbreak prompts and how successful and unsuccessful attempts differ.
 
 The project collects structured prompt-response experiments and analyzes patterns across prompt types, model responses, and outcomes.
